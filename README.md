@@ -11,6 +11,7 @@
  * Quick sort
 
 <hr></hr>
+
 * Sıralama Algoritmaları;
  * Bubble Sort 
  * Merge Sort
