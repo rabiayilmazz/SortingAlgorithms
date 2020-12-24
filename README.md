@@ -1,17 +1,32 @@
 # Algoritmalar
 
-* Sorting 
-* Bubble Sort 
-* Merge Sort
-* Insertion Sort
-* Quicksort 
-* Counting Sort 
-* Cycle Sort 
-* Odd-Even Sort 
-* Selection Sort
-* Rabin Karp 
-* Linear search
-* Substring Search
-* Breadth-First Search
-* Depth First Search 
+1. İyi bilinen kararlı türler;
+ * Merge sort
+ * Insertion sort
+ * Radix sort
+ * Tim sort
+ * Bubble Sort
+2. İyi bilinen kararsız türler;
+ * Heap sort
+ * Quick sort
+
+<hr></hr>
+* Sıralama Algoritmaları;
+ * Bubble Sort 
+ * Merge Sort
+ * Insertion Sort
+ * Bucket Sort
+ * Quicksort 
+ * Counting Sort 
+ * Heap Sort
+ * Cycle Sort 
+ * Odd-Even Sort 
+ * Selection Sort
+* Arama Algoritmaları
+ * Binary Search
+ * Rabin Karp 
+ * Linear search
+ * Substring Search
+ * Breadth-First Search
+ * Depth First Search 
  
