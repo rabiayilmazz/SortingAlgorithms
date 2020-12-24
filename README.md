@@ -13,21 +13,21 @@
 <hr></hr>
 
 * Sıralama Algoritmaları;
- * Bubble Sort 
- * Merge Sort
- * Insertion Sort
- * Bucket Sort
- * Quicksort 
- * Counting Sort 
- * Heap Sort
- * Cycle Sort 
- * Odd-Even Sort 
- * Selection Sort
+  - Bubble Sort 
+  - Merge Sort
+  - Insertion Sort
+  - Bucket Sort
+  - Quicksort 
+  - Counting Sort 
+  - Heap Sort
+  - Cycle Sort 
+  - Odd-Even Sort 
+  - Selection Sort
 * Arama Algoritmaları
- * Binary Search
- * Rabin Karp 
- * Linear search
- * Substring Search
- * Breadth-First Search
- * Depth First Search 
+  - Binary Search
+  - Rabin Karp 
+  - Linear search
+  - Substring Search
+  - Breadth-First Search
+  - Depth First Search 
  
