@@ -13,7 +13,7 @@
 <hr></hr>
 
 * Sıralama Algoritmaları;
-  - Bubble Sort [->](https://github.com/rabiayilmazz/SortingAlgorithms/BubbleSort.md) 
+  - Bubble Sort [->](https://github.com/rabiayilmazz/SortingAlgorithms/blob/main/BubbleSort.md) 
   - Merge Sort
   - Insertion Sort
   - Bucket Sort
