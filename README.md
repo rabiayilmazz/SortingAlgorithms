@@ -13,7 +13,7 @@
 <hr></hr>
 
 * Sıralama Algoritmaları;
-  - Bubble Sort 
+  - Bubble Sort [->](https://github.com/rabiayilmazz/SortingAlgorithms/BubbleSort) 
   - Merge Sort
   - Insertion Sort
   - Bucket Sort
@@ -23,11 +23,4 @@
   - Cycle Sort 
   - Odd-Even Sort 
   - Selection Sort
-* Arama Algoritmaları
-  - Binary Search
-  - Rabin Karp 
-  - Linear search
-  - Substring Search
-  - Breadth-First Search
-  - Depth First Search 
- 
+
