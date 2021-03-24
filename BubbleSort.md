@@ -11,6 +11,8 @@
 {5,3,1,6,7,**2,8**,4} -- 2 < 8 -> atla / swap </br>
 {5,3,1,6,7,2,**4,8**} -- 4 < 8 -> atla / swap </br>
 
+*** Algoritma dzinin ilk elemanından başlar. Bir sonraki eleman ile karşılaştırılır. Sıra sayısı küçük olan eleman büyük ise elemanların yeri değiştirilir. Mesela 2. eleman 3. elemandan büyük ise 3. eleman 2. elemanın, 2. eleman ise 3. elemanın yerine yerleşir. Böylelikle her adımda en büyük sayı dizinin son elamanı haline gelir. ***
+
 ## Kod 
 ``` c
 void bubble_sort(long list[], long n)
